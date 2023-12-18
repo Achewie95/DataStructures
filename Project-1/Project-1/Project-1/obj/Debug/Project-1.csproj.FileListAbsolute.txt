@@ -1,0 +1,56 @@
+C:\Users\amosc\OneDrive\Desktop\Data Structures\Project-1\Project-1\Project-1\bin\Debug\Project-1.exe.config
+C:\Users\amosc\OneDrive\Desktop\Data Structures\Project-1\Project-1\Project-1\bin\Debug\Project-1.exe
+C:\Users\amosc\OneDrive\Desktop\Data Structures\Project-1\Project-1\Project-1\bin\Debug\Project-1.pdb
+C:\Users\amosc\OneDrive\Desktop\Data Structures\Project-1\Project-1\Project-1\obj\Debug\Project-1.csproj.AssemblyReference.cache
+C:\Users\amosc\OneDrive\Desktop\Data Structures\Project-1\Project-1\Project-1\obj\Debug\Project-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\amosc\OneDrive\Desktop\Data Structures\Project-1\Project-1\Project-1\obj\Debug\Project_1.Form1.resources
+C:\Users\amosc\OneDrive\Desktop\Data Structures\Project-1\Project-1\Project-1\obj\Debug\Project_1.Form2.resources
+C:\Users\amosc\OneDrive\Desktop\Data Structures\Project-1\Project-1\Project-1\obj\Debug\Project_1.Form3.resources
+C:\Users\amosc\OneDrive\Desktop\Data Structures\Project-1\Project-1\Project-1\obj\Debug\Project_1.Form4.resources
+C:\Users\amosc\OneDrive\Desktop\Data Structures\Project-1\Project-1\Project-1\obj\Debug\Project_1.Properties.Resources.resources
+C:\Users\amosc\OneDrive\Desktop\Data Structures\Project-1\Project-1\Project-1\obj\Debug\Project-1.csproj.GenerateResource.cache
+C:\Users\amosc\OneDrive\Desktop\Data Structures\Project-1\Project-1\Project-1\obj\Debug\Project-1.csproj.CoreCompileInputs.cache
+C:\Users\amosc\OneDrive\Desktop\Data Structures\Project-1\Project-1\Project-1\obj\Debug\Project-1.exe
+C:\Users\amosc\OneDrive\Desktop\Data Structures\Project-1\Project-1\Project-1\obj\Debug\Project-1.pdb
+C:\Richie\Humber College\2nd Semester\Data Strc and Design Patterns - ITE-5231-IGA\Project\Project-1\Project-1\Project-1\bin\Debug\Project-1.exe.config
+C:\Richie\Humber College\2nd Semester\Data Strc and Design Patterns - ITE-5231-IGA\Project\Project-1\Project-1\Project-1\bin\Debug\Project-1.exe
+C:\Richie\Humber College\2nd Semester\Data Strc and Design Patterns - ITE-5231-IGA\Project\Project-1\Project-1\Project-1\bin\Debug\Project-1.pdb
+C:\Richie\Humber College\2nd Semester\Data Strc and Design Patterns - ITE-5231-IGA\Project\Project-1\Project-1\Project-1\obj\Debug\Project-1.csproj.AssemblyReference.cache
+C:\Richie\Humber College\2nd Semester\Data Strc and Design Patterns - ITE-5231-IGA\Project\Project-1\Project-1\Project-1\obj\Debug\Project-1.csproj.SuggestedBindingRedirects.cache
+C:\Richie\Humber College\2nd Semester\Data Strc and Design Patterns - ITE-5231-IGA\Project\Project-1\Project-1\Project-1\obj\Debug\Project_1.Form1.resources
+C:\Richie\Humber College\2nd Semester\Data Strc and Design Patterns - ITE-5231-IGA\Project\Project-1\Project-1\Project-1\obj\Debug\Project_1.Form2.resources
+C:\Richie\Humber College\2nd Semester\Data Strc and Design Patterns - ITE-5231-IGA\Project\Project-1\Project-1\Project-1\obj\Debug\Project_1.Form3.resources
+C:\Richie\Humber College\2nd Semester\Data Strc and Design Patterns - ITE-5231-IGA\Project\Project-1\Project-1\Project-1\obj\Debug\Project_1.Form4.resources
+C:\Richie\Humber College\2nd Semester\Data Strc and Design Patterns - ITE-5231-IGA\Project\Project-1\Project-1\Project-1\obj\Debug\Project_1.Properties.Resources.resources
+C:\Richie\Humber College\2nd Semester\Data Strc and Design Patterns - ITE-5231-IGA\Project\Project-1\Project-1\Project-1\obj\Debug\Project-1.csproj.GenerateResource.cache
+C:\Richie\Humber College\2nd Semester\Data Strc and Design Patterns - ITE-5231-IGA\Project\Project-1\Project-1\Project-1\obj\Debug\Project-1.csproj.CoreCompileInputs.cache
+C:\Richie\Humber College\2nd Semester\Data Strc and Design Patterns - ITE-5231-IGA\Project\Project-1\Project-1\Project-1\obj\Debug\Project-1.exe
+C:\Richie\Humber College\2nd Semester\Data Strc and Design Patterns - ITE-5231-IGA\Project\Project-1\Project-1\Project-1\obj\Debug\Project-1.pdb
+C:\Users\amosc\OneDrive\Desktop\Data Structures\Project-1\Project-1\Project-1\Project-1\bin\Debug\Project-1.exe.config
+C:\Users\amosc\OneDrive\Desktop\Data Structures\Project-1\Project-1\Project-1\Project-1\bin\Debug\Project-1.exe
+C:\Users\amosc\OneDrive\Desktop\Data Structures\Project-1\Project-1\Project-1\Project-1\bin\Debug\Project-1.pdb
+C:\Users\amosc\OneDrive\Desktop\Data Structures\Project-1\Project-1\Project-1\Project-1\obj\Debug\Project-1.csproj.AssemblyReference.cache
+C:\Users\amosc\OneDrive\Desktop\Data Structures\Project-1\Project-1\Project-1\Project-1\obj\Debug\Project-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\amosc\OneDrive\Desktop\Data Structures\Project-1\Project-1\Project-1\Project-1\obj\Debug\Project_1.Form1.resources
+C:\Users\amosc\OneDrive\Desktop\Data Structures\Project-1\Project-1\Project-1\Project-1\obj\Debug\Project_1.Form2.resources
+C:\Users\amosc\OneDrive\Desktop\Data Structures\Project-1\Project-1\Project-1\Project-1\obj\Debug\Project_1.Form3.resources
+C:\Users\amosc\OneDrive\Desktop\Data Structures\Project-1\Project-1\Project-1\Project-1\obj\Debug\Project_1.Form4.resources
+C:\Users\amosc\OneDrive\Desktop\Data Structures\Project-1\Project-1\Project-1\Project-1\obj\Debug\Project_1.Properties.Resources.resources
+C:\Users\amosc\OneDrive\Desktop\Data Structures\Project-1\Project-1\Project-1\Project-1\obj\Debug\Project-1.csproj.GenerateResource.cache
+C:\Users\amosc\OneDrive\Desktop\Data Structures\Project-1\Project-1\Project-1\Project-1\obj\Debug\Project-1.csproj.CoreCompileInputs.cache
+C:\Users\amosc\OneDrive\Desktop\Data Structures\Project-1\Project-1\Project-1\Project-1\obj\Debug\Project-1.exe
+C:\Users\amosc\OneDrive\Desktop\Data Structures\Project-1\Project-1\Project-1\Project-1\obj\Debug\Project-1.pdb
+C:\Richie\Humber College\2nd Semester\Data Strc and Design Patterns - ITE-5231-IGA\Project\Project-1\Project-1\bin\Debug\Project-1.exe.config
+C:\Richie\Humber College\2nd Semester\Data Strc and Design Patterns - ITE-5231-IGA\Project\Project-1\Project-1\bin\Debug\Project-1.exe
+C:\Richie\Humber College\2nd Semester\Data Strc and Design Patterns - ITE-5231-IGA\Project\Project-1\Project-1\bin\Debug\Project-1.pdb
+C:\Richie\Humber College\2nd Semester\Data Strc and Design Patterns - ITE-5231-IGA\Project\Project-1\Project-1\obj\Debug\Project-1.csproj.AssemblyReference.cache
+C:\Richie\Humber College\2nd Semester\Data Strc and Design Patterns - ITE-5231-IGA\Project\Project-1\Project-1\obj\Debug\Project-1.csproj.SuggestedBindingRedirects.cache
+C:\Richie\Humber College\2nd Semester\Data Strc and Design Patterns - ITE-5231-IGA\Project\Project-1\Project-1\obj\Debug\Project_1.Form1.resources
+C:\Richie\Humber College\2nd Semester\Data Strc and Design Patterns - ITE-5231-IGA\Project\Project-1\Project-1\obj\Debug\Project_1.Form2.resources
+C:\Richie\Humber College\2nd Semester\Data Strc and Design Patterns - ITE-5231-IGA\Project\Project-1\Project-1\obj\Debug\Project_1.Form3.resources
+C:\Richie\Humber College\2nd Semester\Data Strc and Design Patterns - ITE-5231-IGA\Project\Project-1\Project-1\obj\Debug\Project_1.Form4.resources
+C:\Richie\Humber College\2nd Semester\Data Strc and Design Patterns - ITE-5231-IGA\Project\Project-1\Project-1\obj\Debug\Project_1.Properties.Resources.resources
+C:\Richie\Humber College\2nd Semester\Data Strc and Design Patterns - ITE-5231-IGA\Project\Project-1\Project-1\obj\Debug\Project-1.csproj.GenerateResource.cache
+C:\Richie\Humber College\2nd Semester\Data Strc and Design Patterns - ITE-5231-IGA\Project\Project-1\Project-1\obj\Debug\Project-1.csproj.CoreCompileInputs.cache
+C:\Richie\Humber College\2nd Semester\Data Strc and Design Patterns - ITE-5231-IGA\Project\Project-1\Project-1\obj\Debug\Project-1.exe
+C:\Richie\Humber College\2nd Semester\Data Strc and Design Patterns - ITE-5231-IGA\Project\Project-1\Project-1\obj\Debug\Project-1.pdb
